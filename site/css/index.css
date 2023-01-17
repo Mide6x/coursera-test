@@ -10,7 +10,7 @@ header li {
     background-color: #caeaf6;
     margin: auto;
 }
-a {
+a.header {
     text-decoration: none;
     color: black;
     font-weight: bold;
