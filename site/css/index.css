@@ -49,3 +49,14 @@ h2.section2:hover {
 h2.section3:hover {
     color: #000a76;
 }
+
+#box {
+    padding: 150px;
+    border: 3px solid #ff9900;
+    width: 100%;
+    margin-top: 10px;
+    overflow: auto;
+}
+#content {
+    background-color: #90EE90; /* green */
+}
